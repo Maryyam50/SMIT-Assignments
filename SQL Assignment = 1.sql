@@ -1,5 +1,4 @@
- --                Maryyam Tahir Azeem 
- --                 Roll no = 894617
+
 -- ============================================
 -- SQL Server — Class 1 Homework
 -- BikeStores Sample Database
