@@ -1,36 +1,26 @@
-# 📚 SMIT Assignments
+# SMIT Assignments
 
-Welcome to my **SMIT Assignments Repository**.
+This repository contains my assignments, practical tasks, projects, and coursework completed during my SMIT learning journey.
 
-This repository is created to organize and maintain all my assignments, practical tasks, projects, and learning work completed during my SMIT journey.
+## Student Information
 
----
+- **Name:** Maryyam
+- **Roll No:** 894617
+- **Institute:** SMIT
 
-## 👩‍🎓 Student Information
+## Coursework
 
-| Information | Details |
-|------------|---------|
-| **Name** | Maryyam |
-| **Roll No** | 894617 |
-| **Institute** | SMIT |
-| **Repository** | SMIT-Assignments |
+This repository includes work related to:
 
----
+- Python
+- SQL
+- Data Engineering
+- Cloud Computing
+- Git & GitHub
+- Practical Assignments
+- Projects
 
-## 📂 What's Inside?
-
-This repository contains my work related to different topics and coursework, including:
-
-- 🐍 **Python**
-- 🗄️ **SQL**
-- ☁️ **Cloud Computing**
-- 🔧 **Git & GitHub**
-- 📊 **Data Engineering**
-- 💻 **Projects & Practical Tasks**
-
----
-
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 SMIT-Assignments/
@@ -41,5 +31,4 @@ SMIT-Assignments/
 ├── Cloud-Computing/
 ├── Git-GitHub/
 ├── Projects/
-│
 └── README.md
